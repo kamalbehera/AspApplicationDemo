@@ -1,0 +1,11 @@
+D:\Git_Repository\AspApplicationDemo\AspApplicationDemo\bin\Debug\netcoreapp2.0\AspApplicationDemo.deps.json
+D:\Git_Repository\AspApplicationDemo\AspApplicationDemo\bin\Debug\netcoreapp2.0\AspApplicationDemo.runtimeconfig.json
+D:\Git_Repository\AspApplicationDemo\AspApplicationDemo\bin\Debug\netcoreapp2.0\AspApplicationDemo.runtimeconfig.dev.json
+D:\Git_Repository\AspApplicationDemo\AspApplicationDemo\bin\Debug\netcoreapp2.0\AspApplicationDemo.dll
+D:\Git_Repository\AspApplicationDemo\AspApplicationDemo\bin\Debug\netcoreapp2.0\AspApplicationDemo.pdb
+D:\Git_Repository\AspApplicationDemo\AspApplicationDemo\obj\Debug\netcoreapp2.0\AspApplicationDemo.csprojResolveAssemblyReference.cache
+D:\Git_Repository\AspApplicationDemo\AspApplicationDemo\obj\Debug\netcoreapp2.0\AspApplicationDemo.csproj.CoreCompileInputs.cache
+D:\Git_Repository\AspApplicationDemo\AspApplicationDemo\obj\Debug\netcoreapp2.0\AspApplicationDemo.AssemblyInfoInputs.cache
+D:\Git_Repository\AspApplicationDemo\AspApplicationDemo\obj\Debug\netcoreapp2.0\AspApplicationDemo.AssemblyInfo.cs
+D:\Git_Repository\AspApplicationDemo\AspApplicationDemo\obj\Debug\netcoreapp2.0\AspApplicationDemo.dll
+D:\Git_Repository\AspApplicationDemo\AspApplicationDemo\obj\Debug\netcoreapp2.0\AspApplicationDemo.pdb
