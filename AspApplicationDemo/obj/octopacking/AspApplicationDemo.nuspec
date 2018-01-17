@@ -1,0 +1,21 @@
+<package>
+  <metadata>
+    <id>AspApplicationDemo</id>
+    <version>1.0.0</version>
+    <authors>Kamal.Behera</authors>
+    <owners>Kamal.Behera</owners>
+    <tags>OctopusDeploy</tags>
+    <licenseUrl>http://example.com</licenseUrl>
+    <projectUrl>http://example.com</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>The AspApplicationDemo deployment package, built on 1/17/2018</description>
+    <releaseNotes></releaseNotes>
+  </metadata>
+  <files>
+    <file src="D:\Git_Repository\AspApplicationDemo\AspApplicationDemo\bin\Debug\netcoreapp2.0\AspApplicationDemo.deps.json" target="AspApplicationDemo.deps.json" />
+    <file src="D:\Git_Repository\AspApplicationDemo\AspApplicationDemo\bin\Debug\netcoreapp2.0\AspApplicationDemo.runtimeconfig.json" target="AspApplicationDemo.runtimeconfig.json" />
+    <file src="D:\Git_Repository\AspApplicationDemo\AspApplicationDemo\bin\Debug\netcoreapp2.0\AspApplicationDemo.runtimeconfig.dev.json" target="AspApplicationDemo.runtimeconfig.dev.json" />
+    <file src="D:\Git_Repository\AspApplicationDemo\AspApplicationDemo\bin\Debug\netcoreapp2.0\AspApplicationDemo.dll" target="AspApplicationDemo.dll" />
+    <file src="D:\Git_Repository\AspApplicationDemo\AspApplicationDemo\bin\Debug\netcoreapp2.0\AspApplicationDemo.pdb" target="AspApplicationDemo.pdb" />
+  </files>
+</package>
