@@ -1,7 +1,7 @@
 {
   "runtimeTarget": {
     "name": ".NETCoreApp,Version=v2.0",
-    "signature": "7c6491b782d123313f51c5d8be7df63ef9431974"
+    "signature": "29227455b284656927c443908c4a60bfb953d79e"
   },
   "compilationOptions": {
     "defines": [
@@ -24,7 +24,8 @@
       "AspApplicationDemo/1.0.0": {
         "dependencies": {
           "Microsoft.AspNetCore.All": "2.0.5",
-          "Microsoft.NETCore.App": "2.0.0"
+          "Microsoft.NETCore.App": "2.0.0",
+          "OctoPack": "3.6.3"
         },
         "runtime": {
           "AspApplicationDemo.dll": {}
@@ -2365,6 +2366,7 @@
           "lib/netstandard1.3/Newtonsoft.Json.Bson.dll": {}
         }
       },
+      "OctoPack/3.6.3": {},
       "Remotion.Linq/2.1.1": {
         "dependencies": {
           "System.Collections": "4.3.0",
@@ -5125,6 +5127,13 @@
       "sha512": "sha512-5PYT/IqQ+UK31AmZiSS102R6EsTo+LGTSI8bp7WAUqDKaF4wHXD8U9u4WxTI1vc64tYi++8p3dk3WWNqPFgldw==",
       "path": "newtonsoft.json.bson/1.0.1",
       "hashPath": "newtonsoft.json.bson.1.0.1.nupkg.sha512"
+    },
+    "OctoPack/3.6.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-SAKPv9edH3tmVh5jHxWaGS8Z3HhPHz4m6ussmeE1Kgmn3nrkL+az+xuDxV8SjEkVxn+dXm4+Jqw3NJjGj0e4PA==",
+      "path": "octopack/3.6.3",
+      "hashPath": "octopack.3.6.3.nupkg.sha512"
     },
     "Remotion.Linq/2.1.1": {
       "type": "package",
